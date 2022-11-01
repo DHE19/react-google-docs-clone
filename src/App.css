@@ -53,6 +53,32 @@
 }
 
 
+.editDocs-main{
+  font-family: 'Poppins', sans-serif;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.editDocs-inner{
+  background: #a54815;
+  width: 800px;
+  border-radius: 10px;
+  box-shadow: 0px -2px 5px 2px rgba(13, 13, 13, 0.75);
+  -moz-box-shadow: 0px -2px 5px 2px rgba(13, 13, 13, 0.75);
+  -webkit-box-shadow: 0px -2px 5px 2px rgba(13, 13, 13, 0.75);
+  padding: 20px;
+  height: 750px;
+}
+
+.ql-container.ql-snow{
+  border: none;
+}
+
+
+
 
 
 .logo {
